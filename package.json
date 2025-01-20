@@ -1,0 +1,8 @@
+{
+  "name": "Web Scraping",
+  "version": "1.0.0",
+  "dependencies": {
+    "console": "^0.7.2",
+    "pocketbase": "^0.16.0"
+  }
+}

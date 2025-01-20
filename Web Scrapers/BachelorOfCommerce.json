@@ -1,0 +1,346 @@
+{
+    "Accounting": {
+        "100-level": [
+            "ACCT102",
+            "BSNS111",
+            "BSNS112",
+            "BSNS113",
+            "BSNS114",
+            "BSNS115"
+        ],
+        "200-level": [
+            "ACCT211",
+            "ACCT222",
+            "ACCT233",
+            "ACCT260"
+        ],
+        "300-level": []
+    },
+    "Economics": {
+        "100-level": [
+            "BSNS111",
+            "BSNS112",
+            "BSNS113",
+            "BSNS114",
+            "BSNS115",
+            "ECON112"
+        ],
+        "200-level": [
+            "ECON201",
+            "ECON202",
+            "ECON206",
+            "ECON207",
+            "ECON210",
+            "ECON271"
+        ],
+        "300-level": [
+            "ECON301",
+            "ECON302",
+            "ECON303",
+            "ECON306",
+            "ECON308",
+            "ECON316",
+            "ECON317",
+            "ECON318",
+            "ECON319",
+            "ECON350",
+            "ECON351",
+            "ECON371",
+            "ECON375",
+            "ECON376",
+            "ECON377"
+        ]
+    },
+    "Finance": {
+        "100-level": [
+            "BSNS111",
+            "BSNS112",
+            "BSNS113",
+            "BSNS114",
+            "BSNS115",
+            "FINC102"
+        ],
+        "200-level": [
+            "FINC202",
+            "FINC203",
+            "FINC206"
+        ],
+        "300-level": []
+    },
+    "Human Resource Management": {
+        "100-level": [
+            "BSNS111",
+            "BSNS112",
+            "BSNS113",
+            "BSNS114",
+            "BSNS115",
+            "MANT101"
+        ],
+        "200-level": [
+            "MANT217",
+            "MANT222",
+            "MANT250",
+            "MANT251",
+            "MANT252"
+        ],
+        "300-level": [
+            "MANT330",
+            "MANT339",
+            "MANT345",
+            "MANT346",
+            "MANT347"
+        ]
+    },
+    "Information Science": {
+        "100-level": [
+            "BSNS111",
+            "BSNS112",
+            "BSNS113",
+            "BSNS114",
+            "BSNS115",
+            "COMP101",
+            "COMP161",
+            "COMP162"
+        ],
+        "200-level": [
+            "INFO201",
+            "INFO202",
+            "INFO203",
+            "INFO204"
+        ],
+        "300-level": [
+            "INFO301",
+            "INFO302",
+            "INFO303",
+            "INFO304",
+            "INFO305",
+            "INFO310",
+            "INFO350",
+            "INFO351",
+            "INFO352",
+            "INFO353",
+            "INFO390"
+        ]
+    },
+    "International Business": {
+        "100-level": [
+            "BSNS111",
+            "BSNS112",
+            "BSNS113",
+            "BSNS114",
+            "BSNS115",
+            "MANT101"
+        ],
+        "200-level": [
+            "ECON201",
+            "MANT217",
+            "MANT222"
+        ],
+        "300-level": [
+            "ECON302",
+            "MANT332",
+            "MANT342",
+            "MART310",
+            "MART326"
+        ]
+    },
+    "Management": {
+        "100-level": [
+            "BSNS111",
+            "BSNS112",
+            "BSNS113",
+            "BSNS114",
+            "BSNS115",
+            "MANT101"
+        ],
+        "200-level": [
+            "MANT217",
+            "MANT222",
+            "MANT250",
+            "MANT251",
+            "MANT252"
+        ],
+        "300-level": [
+            "MANT301",
+            "MANT303",
+            "MANT330",
+            "MANT331",
+            "MANT332",
+            "MANT333",
+            "MANT334",
+            "MANT337",
+            "MANT338",
+            "MANT339",
+            "MANT340",
+            "MANT342",
+            "MANT345",
+            "MANT346",
+            "MANT347",
+            "MANT358",
+            "MANT359",
+            "MANT360",
+            "MANT361"
+        ]
+    },
+    "Marketing": {
+        "100-level": [
+            "BSNS111",
+            "BSNS112",
+            "BSNS113",
+            "BSNS114",
+            "BSNS115",
+            "MART112"
+        ],
+        "200-level": [
+            "MART201",
+            "MART210",
+            "MART211",
+            "MART212"
+        ],
+        "300-level": [
+            "MART301",
+            "MART304",
+            "MART305",
+            "MART306",
+            "MART308",
+            "MART325",
+            "MART326",
+            "MART328",
+            "MART329",
+            "MART330",
+            "MART333",
+            "MART355"
+        ]
+    },
+    "Philosophy, Politics and Economics": {
+        "100-level": [
+            "BSNS111",
+            "BSNS112",
+            "BSNS113",
+            "BSNS114",
+            "BSNS115",
+            "ECON112",
+            "PHIL105",
+            "POLS101",
+            "POLS102",
+            "POLS104",
+            "POLS105"
+        ],
+        "200-level": [
+            "ECON201",
+            "ECON202",
+            "ECON206",
+            "ECON207",
+            "ECON210",
+            "ECON271",
+            "PHIL222",
+            "PHIL223",
+            "PHIL225",
+            "PHIL227",
+            "PHIL228",
+            "PHIL229",
+            "PHIL231",
+            "PHIL232",
+            "PHIL233",
+            "PHIL234",
+            "PHIL235",
+            "PHIL236",
+            "PHIL239",
+            "PHIL240",
+            "PHPE201",
+            "POLS202",
+            "POLS207",
+            "POLS208",
+            "POLS210",
+            "POLS211",
+            "POLS213",
+            "POLS216",
+            "POLS217",
+            "POLS218",
+            "POLS221",
+            "POLS228",
+            "POLS230",
+            "POLS234",
+            "POLS243",
+            "POLS250"
+        ],
+        "300-level": [
+            "CLAS340",
+            "ECON301",
+            "ECON302",
+            "ECON303",
+            "ECON306",
+            "ECON308",
+            "ECON316",
+            "ECON317",
+            "ECON318",
+            "ECON319",
+            "ECON350",
+            "ECON351",
+            "ECON371",
+            "ECON375",
+            "ECON376",
+            "ECON377",
+            "MANT331",
+            "PHIL312",
+            "PHIL314",
+            "PHIL315",
+            "PHIL323",
+            "PHIL329",
+            "PHIL331",
+            "PHIL332",
+            "PHIL333",
+            "PHIL334",
+            "PHIL335",
+            "PHIL336",
+            "PHIL338",
+            "PHIL339",
+            "PHIL340",
+            "PHPE301",
+            "POLS301",
+            "POLS303",
+            "POLS306",
+            "POLS307",
+            "POLS308",
+            "POLS310",
+            "POLS312",
+            "POLS315",
+            "POLS318",
+            "POLS319",
+            "POLS321",
+            "POLS323",
+            "POLS325",
+            "POLS326",
+            "POLS330",
+            "POLS375",
+            "POLS390"
+        ]
+    },
+    "Tourism": {
+        "100-level": [
+            "BSNS111",
+            "BSNS112",
+            "BSNS113",
+            "BSNS114",
+            "BSNS115",
+            "TOUR101",
+            "TOUR102",
+            "TOUR103"
+        ],
+        "200-level": [
+            "TOUR217",
+            "TOUR218",
+            "TOUR219"
+        ],
+        "300-level": [
+            "TOUR301",
+            "TOUR303",
+            "TOUR304",
+            "TOUR305",
+            "TOUR306",
+            "TOUR310",
+            "TOUR350",
+            "TOUR351"
+        ]
+    }
+}

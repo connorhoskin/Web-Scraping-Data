@@ -1,0 +1,85 @@
+{
+    "Bachelor of Teaching (BTchg) endorsed\u00a0in Early Childhood Education": {
+        "1st year": [
+            "EDCR101",
+            "EDCR102",
+            "EDPR101",
+            "EDPR102",
+            "EDUC101",
+            "EDUC102",
+            "MAOR110"
+        ],
+        "2nd year": [
+            "EDCR201",
+            "EDCR202",
+            "EDCR203",
+            "EDPR201",
+            "EDPR202",
+            "EDUC211"
+        ],
+        "3rd year": [
+            "EDCR301",
+            "EDCR302",
+            "EDPR301",
+            "EDPR302",
+            "EDPR303",
+            "EDUC311"
+        ]
+    },
+    "Te P\u014dkai M\u0101tauranga o Te Ao Rua (Primary Bicultural Education)": {
+        "1st year": [
+            "EDCR131",
+            "EDCR133",
+            "EDCR152",
+            "EDCR155",
+            "EDPR151",
+            "EDUC101",
+            "EDUC102"
+        ],
+        "2nd year": [
+            "EDCR231",
+            "EDCR232",
+            "EDCR235",
+            "EDCR252",
+            "EDCR254",
+            "EDPR251",
+            "EDUC252"
+        ],
+        "3rd year": [
+            "EDCR331",
+            "EDCR334",
+            "EDCR353",
+            "EDPR333",
+            "EDPR351",
+            "EDUC313"
+        ]
+    },
+    "Primary Education": {
+        "1st year": [
+            "EDCR131",
+            "EDCR133",
+            "EDCR135",
+            "EDPR131",
+            "EDUC101",
+            "EDUC102",
+            "MAOR110"
+        ],
+        "2nd year": [
+            "EDCR231",
+            "EDCR232",
+            "EDCR233",
+            "EDCR235",
+            "EDCR236",
+            "EDPR231",
+            "EDUC252"
+        ],
+        "3rd year": [
+            "EDCR331",
+            "EDCR332",
+            "EDCR334",
+            "EDPR331",
+            "EDPR333",
+            "EDUC313"
+        ]
+    }
+}

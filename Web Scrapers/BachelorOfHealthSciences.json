@@ -1,0 +1,122 @@
+{
+    "Community Health Care": {
+        "100-level": [
+            "EDUC105",
+            "HUBS191",
+            "HUBS192",
+            "POPH192",
+            "PUBH192"
+        ],
+        "200-level": [
+            "BITC201",
+            "CMHC201",
+            "CMHC211",
+            "GEOG210",
+            "MAOH201",
+            "PACH201",
+            "PATH201",
+            "PUBH203",
+            "PUBH211",
+            "SOCI205"
+        ],
+        "300-level": [
+            "CMHC301",
+            "CMHC311",
+            "MAOH301",
+            "PACH301"
+        ]
+    },
+    "M\u0101ori Health": {
+        "100-level": [
+            "HUBS191",
+            "HUBS192",
+            "MAOR102",
+            "POPH192",
+            "PUBH192"
+        ],
+        "200-level": [
+            "CMHC201",
+            "CMHC211",
+            "MAOH201",
+            "MAOR202",
+            "MAOR204",
+            "MAOR211",
+            "PUBH202",
+            "PUBH203",
+            "PUBH204",
+            "SOWK236",
+            "SPEX206"
+        ],
+        "300-level": [
+            "CMHC301",
+            "CMHC311",
+            "MAOH301",
+            "PUBH303",
+            "PUBH304",
+            "SOWK304",
+            "SPEX306"
+        ]
+    },
+    "Pacific and Global Health": {
+        "100-level": [
+            "HUBS191",
+            "HUBS192",
+            "POPH192",
+            "PUBH192"
+        ],
+        "200-level": [
+            "BITC201",
+            "CMHC211",
+            "HIST210",
+            "MAOH201",
+            "PACH201",
+            "PACI201",
+            "POLS213",
+            "PUBH202",
+            "PUBH203",
+            "PUBH211"
+        ],
+        "300-level": [
+            "ANTH323",
+            "BITC301",
+            "CMHC211",
+            "MAOH301",
+            "PACH301",
+            "PUBH303",
+            "PUBH311"
+        ]
+    },
+    "Public Health": {
+        "100-level": [
+            "HUBS191",
+            "HUBS192",
+            "POPH192",
+            "PUBH192"
+        ],
+        "200-level": [
+            "ANTH210",
+            "ANTH211",
+            "CMHC201",
+            "GEOG210",
+            "PACH201",
+            "PUBH202",
+            "PUBH203",
+            "PUBH204",
+            "PUBH211",
+            "SOCI205",
+            "SOWK236"
+        ],
+        "300-level": [
+            "ANTH322",
+            "ANTH323",
+            "CMHC301",
+            "GEOG381",
+            "PACH301",
+            "PUBH303",
+            "PUBH304",
+            "PUBH311",
+            "SOCI306",
+            "SOWK304"
+        ]
+    }
+}
